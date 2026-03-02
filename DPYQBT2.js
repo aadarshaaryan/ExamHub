@@ -3,7 +3,7 @@ const questions = [
         "question": "Which of the following is obtained as a by-product during making of a soap?",
         "options": ["Wax", "Ethyl acetate", "Ethyl alcohol", "Glycerol"],
         "correct": 3
-    },
+    }, 
     {
         "question": "Which is the weakest acid?",
         "options": ["HCOOH", "C₆H₅COOH", "CH₃COOH", "ClCH₂COOH"],
