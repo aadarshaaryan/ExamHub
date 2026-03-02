@@ -8,7 +8,7 @@ const questions = [
         "question": "How much work will be required to move a charge of 3C between two points, if the potential difference between them is 15 V ?",
         "options": ["45 J", "30 J", "55 J", "60 J"],
         "correct": 0
-    },
+    }, 
     {
         "question": "It is a by product of biogas—",
         "options": ["Manure", "Water gas", "Hydrogen", "H₂S"],
