@@ -8,7 +8,7 @@ const questions = [
         "question": "The median of the data 13, 12, 23, 18, 26, 19, 14 is—",
         "options": ["13", "18", "14", "19"],
         "correct": 1
-    },
+    }, 
     {
         "question": "The mode of 9, 10, 6, 9, 6, 7, 9, 9, 10, 8, 10 is—",
         "options": ["12", "10", "9", "11"],
