@@ -1,4 +1,4 @@
-const questions = [
+const questions =  [
     {
         question: "A candle is placed 3 cm in front of a concave mirror whose radius of curvature is 24 cm. What will be the characteristics of the image formed?",
         options: ["virtual, erect & magnified", "real, erect & magnified", "real, inverted & reduced", "virtual, inverted & reduced"],
